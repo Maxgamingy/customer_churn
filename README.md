@@ -1,1 +1,1 @@
-# customer_churn
+This project focuses on predicting customer churn using a large dataset. Customer churn refers to the phenomenon where customers stop doing business with a company. Predicting churn is crucial for businesses as it helps in customer retention strategies. In this project, we analyze a large dataset to build a predictive model for customer churn.
